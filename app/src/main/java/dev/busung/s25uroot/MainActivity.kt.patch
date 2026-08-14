@@ -1,0 +1,4 @@
+// Add this to MainActivity.kt in the onCreate method:
+// Shizuku.addBinderReceivedListener(binderReceivedListener)
+// Shizuku.addBinderDeadListener(binderDeadListener)
+// Shizuku.addRequestPermissionResultListener(permissionResultListener)
