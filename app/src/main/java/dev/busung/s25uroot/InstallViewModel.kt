@@ -180,7 +180,7 @@ class InstallViewModel(application: Application) : AndroidViewModel(application)
     }
 
     private suspend fun executeExploit(payload: File) {
-        val shizuku = shizukuEnabled()
+        val shizuku = true // Force Shizuku usage
         val logFile = if (shizuku) File(SHIZUKU_LOG_PATH) else File(app.filesDir, "exploit.log")
         if (shizuku) {
             ShizukuController.exec(arrayOf("rm", "-f", SHIZUKU_LOG_PATH)).waitFor()
