@@ -4,8 +4,8 @@
     {
       {
       "payloadId": "a376b",
-      "displayName": "SM-A376B",
-      "models": ["SM-A376B"],
+      "displayName": "SM-A376B-test",
+      "models": ["SM-A376B-test"],
       "kernelVersions": ["6.1.138-android14-11"],
       "exploit": {
         "url": "https://raw.githubusercontent.com/Tranductam123/Root-My-Galaxy/main/artifacts/a376b/cve-2026-43499",
