@@ -2,18 +2,6 @@
   "schemaVersion": 3,
   "payloads": [
     {
-      "payloadId": "a376b",
-      "displayName": "SM-A376B",
-      "models": ["SM-A376B"],
-      "kernelVersions": ["6.1.138-android14-11"],
-      "exploit": {
-        "url": "https://raw.githubusercontent.com/abdgalaxy36-code/Root-My-Galaxy/main/artifacts/a376b/cve-2026-43499-app.so",
-        "size": 2139272
-      },
-      "kernelSu": {
-        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud",
-        "size": 0
-      },
       {
       "payloadId": "a376b",
       "displayName": "SM-A376B",
@@ -21,7 +9,7 @@
       "kernelVersions": ["6.1.138-android14-11"],
       "exploit": {
         "url": "https://raw.githubusercontent.com/Tranductam123/Root-My-Galaxy/main/artifacts/a376b/cve-2026-43499",
-        "size": 2139272
+        "size": 104128
       },
       "kernelSu": {
         "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud",
