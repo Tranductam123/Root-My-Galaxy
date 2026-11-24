@@ -20,7 +20,7 @@
       "models": ["SM-A376B"],
       "kernelVersions": ["6.1.138-android14-11"],
       "exploit": {
-        "url": "https://raw.githubusercontent.com/abdgalaxy36-code/Root-My-Galaxy/main/artifacts/a376b/cve-2026-43499",
+        "url": "https://raw.githubusercontent.com/Tranductam123/Root-My-Galaxy/main/artifacts/a376b/cve-2026-43499",
         "size": 2139272
       },
       "kernelSu": {
